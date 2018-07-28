@@ -9,7 +9,7 @@ Link for the blog post pending...
 
 ## Build the docker image
 
-Run the 
+Run the following shell command
 ```bash
 cd ~/path/to/this/repository/DummyCwlTool
 docker build -t readpaircounter .
